@@ -1,0 +1,13 @@
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.GeneratedMSBuildEditorConfig.editorconfig
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.AssemblyInfoInputs.cache
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.AssemblyInfo.cs
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.csproj.CoreCompileInputs.cache
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.exe
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.deps.json
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.runtimeconfig.json
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.runtimeconfig.dev.json
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.dll
+F:\vs\Day15HashTable_UC2\bin\Debug\netcoreapp3.1\Day15HashTable_UC2.pdb
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.dll
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.pdb
+F:\vs\Day15HashTable_UC2\obj\Debug\netcoreapp3.1\Day15HashTable_UC2.genruntimeconfig.cache
